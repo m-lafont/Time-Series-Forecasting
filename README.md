@@ -18,8 +18,7 @@ The final model uses a dual-branch neural network with LSTM and self-attention m
 ## Project Structure
 - **`reports/Time_Series_Forecasting_Report.pdf`**: Detailed report with methodology, results, and conclusions.
 - **`notebooks/Time_Series_Forecasting.ipynb`**: Jupyter Notebook for preprocessing, training, and evaluation.
-- **`data/`**: Time series datasets used for training and validation.
-
+  
 ---
 
 ## Dataset
